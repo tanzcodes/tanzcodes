@@ -1,4 +1,4 @@
-# Hi there, I'm Tanzeela Ateeq! 👋
+# Hi there, I'm Tanzeela Ateeq ! 👋
 
 I am a passionate IT student and Frontend Web Developer based in Karachi, Pakistan. I love turning creative ideas into clean, interactive, and responsive web applications. Currently, I am expanding my horizons by diving into modern AI concepts and advanced JavaScript programming!
 
