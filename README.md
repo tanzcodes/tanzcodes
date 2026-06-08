@@ -1,3 +1,4 @@
+![logo](https://github.com/tanzcodes/tanzcodes/blob/main/Blue%20and%20White%20Simple%20Web%20Designer%20General%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tanzeela Ateeq</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
